@@ -75,7 +75,7 @@ body {
 	overflow-x: scroll;
 	overflow-y: hidden;
 	
-	padding: 10px 12px;
+	padding: 10px 0 10px 22px;
 }
 
 .stories__container {
