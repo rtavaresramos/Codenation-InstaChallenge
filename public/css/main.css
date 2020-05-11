@@ -74,6 +74,8 @@ body {
 	
 	overflow-x: scroll;
 	overflow-y: hidden;
+	
+	padding: 10px 12px;
 }
 
 .stories__container {
@@ -81,11 +83,11 @@ body {
 	width: auto;
 	height: 16vh;
 
-	padding: 10px 12px;
+	
 }
 
 /* Hide scrollbar for Chrome, Safari and Opera */
-.stories__container::-webkit-scrollbar {
+.storiesContainer::-webkit-scrollbar {
   display: none;
 }
 
