@@ -82,8 +82,7 @@ body {
 	display: flex;
 	width: auto;
 	height: 16vh;
-
-	
+	margin-top: 100px;
 }
 
 /* Hide scrollbar for Chrome, Safari and Opera */
